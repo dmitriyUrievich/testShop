@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "isAdmin": true,
+    "name": "Leanne Graham",
+    "password": "Test12345",
+    "email": "L@april.biz",
+    "image": "String",
+    "sex": "male"
+  },
+  {
+    "_id": 2,
+    "isAdmin": false,
+    "name": "Sem Graham",
+    "password": "Test12345",
+    "email": "S@mail.com",
+    "image": "String",
+    "sex": "female"
+  }
+]

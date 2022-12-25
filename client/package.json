@@ -35,6 +35,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "format": "npx prettier --write .",
     "lint": "eslint src/**/*.{js,jsx,ts,tsx} --fix --max-warnings 0 --no-error-on-unmatched-pattern"
   },
